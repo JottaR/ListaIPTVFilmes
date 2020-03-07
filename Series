@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series",Impulse
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse",Impulse
 -
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep1
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep1
 https://s2.pandafiles.com:183/d/7i3z3e6n26kwoyapm6f2w3ecnr2fvanxp4peryrhmbxir4fnqtppymo5eithcdusir4h2fxl/video.mp4
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep2
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep2
 https://s2.pandafiles.com:183/d/7i3zze6n26kwoyapm6f6m76lm7ab5f27pfw7py4gqlw65o7oz6ssb6cip2kznbyeeog77mik/video.mp4
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep3
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep3
 https://s2.pandafiles.com:183/d/7i3zhe6n26kwoyapm6f6s5wamsqppvyxe22zcfxwk3ha5fylma46fi57umnda4wl2kxi56zs/video.mp4
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep4
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep4
 https://s2.pandafiles.com:183/d/7i3zfe6n26kwoyapm6f3wzmiobrkjvg6l5upaxzgvna7ylz3ztserr4jg3ony53z6a3deeqb/video.mp4
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep5
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep5
 https://s2.pandafiles.com:183/d/7i3zde6n26kwoyapm6f3s5obnyfa3twb37y4p6yad7d5k2eljq6xd3gcrvcecwbcpagrjtcg/video.mp4
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep6
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep6
 https://s2.pandafiles.com:183/d/7i3zbe6n26kwoyapm6f6s7wanxfnp4peaq7w7hhqmnlp2qucwrje567xwvpywwpgj5ihyvgn/video.mp4
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep7
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep7
 https://s2.pandafiles.com:183/d/7i3zpe6n26kwoyapm6f3iy6sgkhtuvemzrbun4ygl3ia4mhflaz72jbkytm57o6ouwtosbqa/video.mp4
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep8
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep8
 https://s2.pandafiles.com:183/d/7i3zne6n26kwoyapm6f32n6apam5c5fblhrdxeyeofxhil5ro7rblgo5zp3fjclgvshueolv/video.mp4
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep9
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep9
 https://s2.pandafiles.com:183/d/7i3zle6n26kwoyapm6f2gyozg7vms2xtycshxcbjlunqrckr37a3p6vjccnogeecmeqweuys/video.mp4
-#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Series", Ep10
+#EXTINF:-1 type="video" tvg-id="2020" tvg-logo="https://image.tmdb.org/t/p/original/qNen2TEq0KjeDYqofvxfT822sXd.jpg" group-title="Impulse", Ep10
 https://s2.pandafiles.com:183/d/7i3zje6n26kwoyapm6f2m3gqpf2pelhoa2r7ab277llnz4srtplya4jlr3qmphraojkzjlfu/video.mp4
